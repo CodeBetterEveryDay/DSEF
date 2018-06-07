@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-  - [Installation](installation)
+  - [Installation](#installation)
   - Operational Systems
     - [Linux Ubuntu](#ubuntu)
   - Integrated Development Environments (IDE)
@@ -14,6 +14,7 @@
     - [RStudio](#rstudio)
   - [Bash Scripting / Command Line](#bash)
   - [Python virtual environments](#virtualenv)
+    - [PipEnv](#pipenv)
     - [VirtualEnv](#virtualenv)
     - [PyEnv](#pyenv)
     - [Conda](#conda)
@@ -30,6 +31,8 @@
     - [Google Slides](#google-slides)
   - Resources
   - [Links](#resources)
+
+## Installation
 
 ##  Operational Systems
 
@@ -95,7 +98,33 @@ Command Line
 https://www.computerhope.com/issues/chusedos.htm
 
 ## Python virtual environments and package management system
+## PipEnv
+
+Pip + VirtualEnv    https://docs.pipenv.org/
+
+https://realpython.com/pipenv-guide/  https://github.com/pypa/pipenv
+
+https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
+
+https://feici02.github.io/2017/09/24/pipenv-cheatsheet.html
+
+
+## PipEnv from Scratch
+https://github.com/daneah/pipenv-tutorial
+
+https://github.com/daneah/pipenv-tutorial/blob/master/cheatsheet.md
+
+
+
 ### VirtualEnv
+
+Python virtualenv Ubuntu
+```
+$ sudo pip install virtualenv myenv    # if error   sudo apt install python-pip
+$ sudo apt-get update
+$ virtualenv myenv
+$ source myenv/bin/activate          # deactivate
+```
 
 http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
@@ -107,7 +136,33 @@ https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
 
 
 ## Conda
-[Conda](https://conda.io/docs/)
+https://conda.io/docs/ https://www.anaconda.com/download/
+
+https://conda.io/docs/user-guide/getting-started.html
+https://conda.io/docs/user-guide/tasks/manage-environments.html
+
+```
+$ conda create --name python37
+$ activate python37
+$ conda install pandas
+$ deactivate
+```
+### Create a virtual environment with specific version
+```
+$ create --name mypython3version python=3.5
+```
+### Create a virtual environment with specific version and a single module
+```
+$ create --name mypython3version python=3.5 numpy
+```
+### Create a virtual environment with specific version with entire Anaconda distribution
+```
+$ create --name mypython3version python=3.5 anaconda
+```
+### To check the environments
+```
+$ conda info --envs
+```
 
 ## Version control and repository systems
 ## Git
@@ -154,7 +209,7 @@ https://www.skype.com/en/
 ##  Google Slides
 [Google Slides](https://docs.google.com/presentation/u/0/)
 
-##  jupyternotebook
+##  jupyter notebook
 
 ## Resources
 https://www.ngdata.com/top-tools-for-data-scientists/

@@ -5,7 +5,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 
 ## Table of contents:
-
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [DSE toolset](toolset)
 * [Programming](programming)
 * [Cloud Computing](CloudComputing)
@@ -13,8 +13,9 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [Data Analysis](DataAnalysis)
 * [Data Visualisation & Storytelling](DataVisualisation)
 * [Data Management Systems](DataManagementSystems)
-* [Big Data Analytics](BigDataAnalytics)
+* [DevOps](DevOps)
 * [Data Engineering](DataEngineering)
+* [Big Data Analytics](BigDataAnalytics)
 * [Building Web Applications](BuildingWebApplications)
 * [Machine Learning](MachineLearning)
 * [Deep Learning](DeepLearning)
@@ -28,6 +29,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 ## Reference Books and Research Papers:
 
 **Books:**
+
+**Practical DevOps** by Joakim Verona
+
+**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
 
 
 **Docker for Data Science** by Joshua Cook

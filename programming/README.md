@@ -7,7 +7,7 @@
   - [Pandas](#pandas)
   - [Introduction to Numpy](#numpy)
   - [Data Wrangling with Pandas](#data-wrangling-pandas)
-  - [Data Acquisition with Python](#data-acquisition)
+  - [Getting and loading data with Python](#data-acquisition)
   - [Python Development](#python-development)
   - [Python Resources](#python-resources)
   - [R](#r)
@@ -66,7 +66,7 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 ## Data Acquisition
 
-[Getting and loading data with Python](GettingLoadingDataPython.ipynb)
+[Getting and loading data with Python](GettingDataPython.ipynb)
 
 
 
