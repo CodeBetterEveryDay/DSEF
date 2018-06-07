@@ -172,9 +172,8 @@ $ conda info --envs
 [Gitlab](https://gitlab.com/)
 [Bitbucket](https://bitbucket.org)
 
-* [Github cheat-sheet](github-cheat-sheet)
 * [Introduction to Git & Github RG](github)
-* [Udacity's course How to Use Git and GitHub](udacitygitgithub)
+* [Udacity's course How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Github template](github-template)
 
 
