@@ -40,14 +40,6 @@
 
 ### Linux excels at all of these points:
 
-- No Linux distribution automatically installs bloatware
-
-- Virtually every notification method on Linux is better than the garbage "Action Center"
-
-- Installing applications on Linux is a breeze with package management systems
-
-- Linux has no licensing costs at all
-
 https://arstechnica.com/information-technology/2018/05/ubuntu-18-04-the-return-of-a-familiar-interface-marks-the-best-ubuntu-in-years/
 
 [Ubuntu 18.04: What's New?](https://www.youtube.com/watch?v=ONXfL6evR0Q)
@@ -172,8 +164,9 @@ $ conda info --envs
 [Gitlab](https://gitlab.com/)
 [Bitbucket](https://bitbucket.org)
 
+* [Github cheat-sheet](github-cheat-sheet)
 * [Introduction to Git & Github RG](github)
-* [Udacity's course How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Udacity's course How to Use Git and GitHub](udacitygitgithub)
 * [Github template](github-template)
 
 

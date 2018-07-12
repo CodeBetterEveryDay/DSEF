@@ -1,15 +1,15 @@
 
 # Data Science Engineering Fundamentals Program
 
-The Open Source resources in Data Engineering, Cloud Computing, Machine Learning, Data Science and applied AI topics, inspired by [Data Science Masters](http://datasciencemasters.org/).
+The Open Source resources in Data Engineering, Cloud Computing, Machine Learning, Data Science and Artificial Intelligence topics, inspired by [Data Science Masters](http://datasciencemasters.org/).
 
 
 ## Table of contents:
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [DSE toolset](toolset)
 * [Programming](programming)
+* [Applied Math Probability Statistics Algorithms](MathProbStatAlgo)
 * [Cloud Computing](CloudComputing)
-* [Math Stats Probability](MathStatsProbability)
 * [Data Analysis](DataAnalysis)
 * [Data Visualisation & Storytelling](DataVisualisation)
 * [Data Management Systems](DataManagementSystems)
@@ -19,7 +19,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [Building Web Applications](BuildingWebApplications)
 * [Machine Learning](MachineLearning)
 * [Deep Learning](DeepLearning)
-* [NLP](nlp)
+* [NLP](NLP)
 * [Project Management](ProjectManagement)
 * [DSE projects](DSEprojects)
 
@@ -33,7 +33,6 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 **Practical DevOps** by Joakim Verona
 
 **Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
-
 
 **Docker for Data Science** by Joshua Cook
 
