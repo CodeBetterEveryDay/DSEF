@@ -38,8 +38,6 @@
 
 ## Ubuntu
 
-### Linux excels at all of these points:
-
 https://arstechnica.com/information-technology/2018/05/ubuntu-18-04-the-return-of-a-familiar-interface-marks-the-best-ubuntu-in-years/
 
 [Ubuntu 18.04: What's New?](https://www.youtube.com/watch?v=ONXfL6evR0Q)

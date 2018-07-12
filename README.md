@@ -5,6 +5,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 
 ## Table of contents:
+
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [DSE toolset](toolset)
 * [Programming](programming)
@@ -30,10 +31,6 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Books:**
 
-**Practical DevOps** by Joakim Verona
-
-**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
-
 **Docker for Data Science** by Joshua Cook
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
@@ -49,6 +46,9 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Deep Learning Book** by Ian Goodfellow, Yoshua Bengio, Aaron Courville https://www.deeplearningbook.org/
 
+**Practical DevOps** by Joakim Verona
+
+**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
 
 **Papers:**
 
