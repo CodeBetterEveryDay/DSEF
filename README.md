@@ -16,11 +16,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [Data Management Systems](DataManagementSystems)
 * [DevOps](DevOps)
 * [Data Engineering](DataEngineering)
-* [Big Data Analytics](BigDataAnalytics)
+* [Distributed Computing](DistributedComputing)
 * [Building Web Applications](BuildingWebApplications)
 * [Machine Learning](MachineLearning)
-* [Deep Learning](DeepLearning)
-* [NLP](NLP)
+* [Deep Learning and NLP](DeepLearningNLP)
 * [Project Management](ProjectManagement)
 * [DSE projects](DSEprojects)
 
@@ -46,6 +45,9 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Deep Learning Book** by Ian Goodfellow, Yoshua Bengio, Aaron Courville https://www.deeplearningbook.org/
 
+**Deep Learning with Python** by François Chollet
+https://www.manning.com/books/deep-learning-with-python
+
 **Practical DevOps** by Joakim Verona
 
 **Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
@@ -69,4 +71,5 @@ https://eu.udacity.com/
 https://www.datacamp.com/
 https://cloudacademy.com
 https://www.edx.org/
+http://udemy.com
 http://www.deeplearningbook.org/
