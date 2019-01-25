@@ -34,14 +34,16 @@ $ conda install pandas  #install one package
 $ deactivate (source deactivate)
 ```
 
-### To check the environments
-```
-$ conda info --envs
-```
-
 ### Install packages from txt file with pip
 ```
 $ pip install -r requirements.txt
+```
+
+#### Other useful commands and links
+
+### To check conda environments
+```
+$ conda info --envs
 ```
 
 ### Create install file
