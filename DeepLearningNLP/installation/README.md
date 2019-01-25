@@ -23,6 +23,7 @@ After installing Anaconda, you can access its command-line interface with the co
 https://conda.io/docs/ https://www.anaconda.com/download/
 
 https://conda.io/docs/user-guide/getting-started.html
+
 https://conda.io/docs/user-guide/tasks/manage-environments.html
 
 
@@ -30,8 +31,6 @@ Windows / Linux
 ```
 $ conda create -n dl_nlp36 python=3.6
 $ conda (source) activate dl_nlp36
-$ conda install pandas  #install one package
-$ deactivate (source deactivate)
 ```
 
 ### Install packages from txt file with pip
@@ -39,7 +38,11 @@ $ deactivate (source deactivate)
 $ pip install -r requirements.txt
 ```
 
-#### Other useful commands and links
+## Other useful commands and links
+```
+$ conda install pandas  #install one package
+$ deactivate (source deactivate)
+```
 
 ### To check conda environments
 ```
