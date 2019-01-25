@@ -60,8 +60,8 @@ $ more environment.yaml
 $ conda env create -f environment.yaml
 ```
 
-### Old instruction of installation. Ref only
-[installation tensorflow keras](installation_tensorflow_keras)
+### Old instruction of installation. Ref
+[installation tensorflow keras](installation_tensorflow_keras.txt)
 
 ## VirtualEnv
 

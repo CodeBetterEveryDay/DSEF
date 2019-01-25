@@ -1,17 +1,15 @@
-## How To Install TensorFlow and Kears (CPU only) on Ubuntu 16.04, Python 3.5+
+## How To Install TensorFlow and Kears (CPU only) on Ubuntu 16.04, Python 3.6+
 
-## If you have not installed Anaconda and conda, I will recommend you to stay with virtualenv.
+## If you have not installed Anaconda and conda, I can stay with virtualenv.
 ## Mac users should do similar to Ubuntu installation.
 
 ## Windows users can try the below conda approach.
-
 
 ## You can install TensorFlow in different ways:
 
 # 1 Python and Virtualenv or Conda: In this approach, you install TensorFlow and Keras and all of the packages in a Python virtual environment or conda environment.
 
-
-# Conda - Ubuntu 16.04 P3.5 +
+# Conda - Ubuntu 16.04 P3.6 +
 
 sudo apt-get update
 
@@ -44,7 +42,7 @@ python3
 import Keras
 
 
-# Virtualenv  Ubuntu 16.04 P3.5 +
+# Virtualenv  Ubuntu 16.04 P3.6 +
 
 sudo apt-get update
 
@@ -68,12 +66,10 @@ source deactivate
 
 ## The below are out of scope of this event however will be updated in the future.
 
-# 2 Docker: In this approach, you use a Docker container that contains TensorFlow and Kears and all of its dependencies.
+# 2 Docker: In this approach, you use a Docker container that contains TensorFlow and Keras and all of its dependencies.
 
 
-# 3 Using Cload resources to install TensorFlow and Kears (CPU and GPU):
-
-
+# 3 Using Cloud resources to install TensorFlow and Keras (CPU and GPU):
 
 Relevant links:
 
