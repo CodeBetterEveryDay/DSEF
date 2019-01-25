@@ -1,20 +1,17 @@
-## Table of contents:
 
-- [Tensorflow](#Tensorflow)
-- [Keras](#Keras)
-- [PyTorch](#Pytorch)
-- [Spacy](#Spacy)
-- [Gensim](#Gensim)
 
-## Tensorflow
+## Table of Contents
 
-## Keras
+  - [Installation](installation)
+  - [Tensorflow](tensorflow)
+  - [Keras](keras)
+  - [Pytorch](pytorch)
 
-## PyTorch
+  - [Introduction to Natural Language Processing](IntroductionToNLP.ipynb)
+  - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
-## Spacy
 
-## Gensim
+
 
 **Resources**
 
